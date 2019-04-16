@@ -1,2 +1,2 @@
-# cirkels-in-een-vierkant-
+# kunst.
 bewegende cirkels in een vierkant met verschillende kleuren
